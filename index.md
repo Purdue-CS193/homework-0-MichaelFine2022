@@ -1,6 +1,11 @@
 ## Michael's First CS193 Homework
 MICHAEL FINE EDITED THIS PAGE
 
+Favorite things about CS 19300
+- The CS stuff I get to learn about
+- I get to use the terminal
+- I like CS :)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
